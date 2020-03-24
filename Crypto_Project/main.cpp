@@ -1,7 +1,7 @@
 /*Name: Phuong Hoang
 WSU ID: A554P695
 Program #: Final Project
-Desciption: Create an Encrypt_message class that asks the user for a secret meesage. The program encrypts and decrypts the message. 
+Desciption: Create Encrypt_message class that asks the user for a secret meesage. The program encrypts and decrypts the message. 
 It will throw an out_of_bounds error if the message goes out of bounds. Create an Encrypt_password class that asks the user for a password 
 and inputs the encrypted password to a file. The program encrypts and decrypts the password. The encrypted password in the file will 
 update everytime the user exits the program
