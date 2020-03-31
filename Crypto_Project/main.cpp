@@ -1,4 +1,4 @@
-/*Name:  Phuong Hoang
+/*Name: Phuong Hoang
 WSUID: A554P695x
 Program #: Final Project
 Desciption: Create Encrypt_message class that asks the user for a secret meesage. The program encrypts and decrypts the message. 
