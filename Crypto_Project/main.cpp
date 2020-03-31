@@ -31,7 +31,7 @@ int main()
   string orig_pass = "ABCabc123";
    ifstream fin;
    fin.open("Passwordfile.txt");
-   //checks to see if Passwordfile.txt exists
+   //check to see if Passwordfile.txt exists
    if(!fin)
        password.set_new_password(orig_pass);
   int choice;
