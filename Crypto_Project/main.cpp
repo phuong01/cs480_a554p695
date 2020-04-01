@@ -1,5 +1,5 @@
 /*Name: Phuong Hoang
-WSUID: A554P695x
+WSUID: A554P695
 Program #: Final Project
 Desciption: Create Encrypt_message class that asks the user for a secret meesage. The program encrypts and decrypts the message. 
 It will throw an out_of_bounds error if the message goes out of bounds. Create an Encrypt_password class that asks the user for a password 
