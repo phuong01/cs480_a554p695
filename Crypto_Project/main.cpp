@@ -97,7 +97,7 @@ int main()
         //encrypts message
         message.encrypt();
         cout<<message<<endl;
-        //decrypts message
+        //decrypts message.
         message.decrypt();
         cout<<message<<endl;
 
