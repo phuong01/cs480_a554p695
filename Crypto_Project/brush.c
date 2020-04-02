@@ -4,5 +4,5 @@
 
 main()
 {
-  printf("The button.c file is...\n");
+  printf("button.c file is...\n");
 }
