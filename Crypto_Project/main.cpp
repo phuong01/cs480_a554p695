@@ -94,7 +94,7 @@ int main()
           //makes message all capital letters for encryption/decrytion to work
           message[i] = toupper(message[i]);
         }
-        //encrypts message
+        //encrypts the message.
         message.encrypt();
         cout<<message<<endl;
         //decrypts the message.
